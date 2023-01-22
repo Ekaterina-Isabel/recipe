@@ -32,5 +32,4 @@ public class Main {
 1. Прикрепите ссылку на ваш публичный гитхаб-репозиторий.
 
 ### Результат выполнения задачи:
-[ссылка на текущий репозиторий](https://github.com/Ekaterina-Isabel/recipe)  
 [ссылка на баг-репорт](https://github.com/Ekaterina-Isabel/recipe/issues/1)
